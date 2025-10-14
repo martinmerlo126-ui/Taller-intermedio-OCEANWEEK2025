@@ -1,6 +1,6 @@
 Datos temporales en R
 ================
-Héctor Villalobos
+Corrida prueba de Jonathan Herrera con el taller intermedio
 
 ## Introducción
 
